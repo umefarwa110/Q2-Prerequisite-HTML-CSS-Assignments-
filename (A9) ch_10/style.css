@@ -1,0 +1,86 @@
+.Cata1{
+    background-color: #FF7F50;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata2{
+    background-color: #DA70D6;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata3{
+    background-color: #7B68EE;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata4{
+    background-color: #FFD700;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata5{
+    background-color: #2E8B57;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata6{
+    background-color: #A0522D;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata7{
+    background-color: #FA8072;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata8{
+    background-color: #DAA520;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata9{
+    background-color: #6495ED;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata10{
+    background-color: #FFFAFA;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+.Cata11{
+    background-color: #FFB6C1;
+    font-family: 'Times New Roman';
+    font-size: 21px;
+}
+
+table td{
+    width: 65px;
+    height: 45px;
+    border: 2px solid black;
+}
+
+sup{
+    font-size: 12px;
+}
+
+table {
+    text-align: center;
+    border: 2px solid black;
+
+}
+ h1{
+    font-size: 35px;
+ }
+
+
