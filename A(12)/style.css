@@ -284,6 +284,9 @@ p {
     background-color: #f2f2f2;
     padding-top: 30px;
     padding-bottom: 30px;
+    background-image: url('images/about_us_bgimage.png');
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .about_us h2 {
@@ -297,6 +300,17 @@ p {
     color: #678F1B;
 }
 
+.container {
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.about_para {
+    font-size: 11.5px;
+    font-weight: bold;
+    color: #000;
+    width: 35%;
+}
 /*-------------------------*/
 
 .our_services {
@@ -971,5 +985,4 @@ p {
     height: 100%;
     background-color: #91b12e;
 }
-
 
